@@ -2,7 +2,7 @@ Shell Remotas. Parte I
 
 --> Introdução 
 	
-Em um mondo conectado, o acesso remoto a computadores acontece o tempo todo. Você usa serviços como ssh ou telnet para essa finalidade, mas, às vezes, eles não estão disponíveis ou não é possível até mesmo implantar esses serviços no dispositivo de destino. Nesses casos, você pode facilmente escrever seu próprio programa...
+Em um mundo conectado, o acesso remoto a computadores acontece o tempo todo. Você usa serviços como ssh ou telnet para essa finalidade, mas, às vezes, eles não estão disponíveis ou não é possível até mesmo implantar esses serviços no dispositivo de destino. Nesses casos, você pode facilmente escrever seu próprio programa...
 
 [ NÍVEL: INICIANTE ]
 
