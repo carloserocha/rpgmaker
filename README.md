@@ -105,7 +105,7 @@ No outro terminal, iniciaremos a shell reversa dessa forma:
 Você receberá imediatamente um aviso no seu terminal netcat e acessará a máquina de destino que acabou de chamar de volta para casa.
 
 
-OBS: <a href="https://github.com/carloserocha/Exploits/blob/master/shell_remote.c">Pode ser usado para criar o servidor LISTEN somenet</a><br />
+OBS: <a href="https://github.com/carloserocha/Exploits/blob/master/shell_remote.c">Pode ser usado para criar o servidor LISTEN somente</a><br />
  <h3>--> FIM.</h3>
 
 													09/07/2018
